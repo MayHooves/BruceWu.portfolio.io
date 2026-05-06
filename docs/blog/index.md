@@ -1,3 +1,4 @@
 # Blog
 
-- [ Lessons from group project and Reflection](/blog/lessons-from-group-project.md)
+- [Generative AI in 2026, is it a God-tier Assistant or Industry Terminator?](/blog/generative-ai-in-2026.md)
+- [When Creative Vision Meets Management Reality](/blog/lessons-from-group-project.md)

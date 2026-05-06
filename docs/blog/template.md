@@ -1,3 +1,3 @@
-# Test Blog
+# Text
 
 This is my first blog for testing funtions...

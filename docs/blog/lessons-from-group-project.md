@@ -1,4 +1,4 @@
-# Lessons from group project and Reflection
+# When Creative Vision Meets Management Reality
 ---
 
 Many believe that a successful animation project stems solely from a director's unbridled imagination. However, after a recent collaborative project, I have come to a profound realization: great ideas are merely the starting point; poor management is where projects go to die. Even with the most stunning visual concepts, a project will inevitably disintegrate without realistic planning, strategic resource allocation, and transparent communication. This experience was a painful lesson in how managerial negligence can systematically erode a team's creativity.
