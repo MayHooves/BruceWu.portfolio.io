@@ -1,11 +1,11 @@
-# My Little Pony in Minecraft Animation Show Reel
+# Back Flip Animation
 ---
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tohvLXURuBw?si=FrK4EyjgkifFjj_j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 
 
-## Minecraft Modding Project: Magical Land
+## What I've learned
 
 This is a practice clip created during class, where I focused on mastering the **Blocking** phase using **Stepped Mode**. This exercise taught me the critical importance of solidifying key poses before moving to spline.
 
