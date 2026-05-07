@@ -11,4 +11,17 @@ Bournemouth University
 
 ## TECHNICAL SKILLS
 **Softwares:**
-   - Maya, Blender, ZBrush, Substance Painter, Unreal Engine
+- Maya, 
+- Blender
+- ZBrush
+- Substance Painter
+- Unreal Engine
+- Nuke
+- Premiere Pro
+
+**Skills**
+- 3D Character Animation
+- Character Sculpting
+- 3D Modeling
+- compositing
+- Video Editing
