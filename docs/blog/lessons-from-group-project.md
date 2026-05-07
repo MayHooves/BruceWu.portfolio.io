@@ -22,4 +22,4 @@ In our team, this atmosphere was non-existent. Although everyone was honest, no 
 **Reference list**
 
 * Singh, R. (2016). The Art of Animation Production Management. Boca Raton: CRC Press.
-* Catmull, E. (2014). Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration. London: Bantam Press.
+* Catmull, E. (2014). Creativity, Inc.: Honesty and Candor. London: Bantam Press.

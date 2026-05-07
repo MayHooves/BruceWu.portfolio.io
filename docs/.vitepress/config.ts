@@ -25,6 +25,7 @@ export default {
     nav: [
       { text: 'Home', link: '/'},
       { text: 'About Me', link: '/about/'},
+      { text: 'CV', link: '/cv.md'},
       { text: 'Portfolio', link: '/projects'},
       { text: 'Blog', link: '/blog/'},
     ],
