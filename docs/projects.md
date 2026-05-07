@@ -20,7 +20,7 @@
   </div>
 
   <div style="text-align: center;">
-    <img src="/photo3.jpg" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 8px;" />
+    <img src="/PonyCover.png" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 8px;" />
     <p style="margin-top: 8px; font-weight: bold;">第三个视频/图片标题</p>
   </div>
 
