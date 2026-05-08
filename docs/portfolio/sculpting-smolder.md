@@ -11,9 +11,10 @@ const images = [
   withBase('/SmolderSculpt/SmolderFront.jpg'),
   withBase('/SmolderSculpt/SmolderSideFront.jpg'),
   withBase('/SmolderSculpt/SmolderBack.jpg'),
-  withBase('/SmolderSculpt/Process00.png'),
-  withBase('/SmolderSculpt/Process01.png'),
-  withBase('/SmolderSculpt/Process02.png'), 
+  withBase('/SmolderSculpt/00.png'),
+  withBase('/SmolderSculpt/01.png'),
+  withBase('/SmolderSculpt/02.png'), 
+  withBase('/SmolderSculpt/03.png')
 ]
 
 // 2. 记住当前选中的是第几张图，默认是 0（第一张）
