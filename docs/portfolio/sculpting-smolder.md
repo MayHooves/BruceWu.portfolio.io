@@ -11,7 +11,7 @@ const images = [
   withBase('/SmolderSculpt/SmolderFront.jpg'),
   withBase('/SmolderSculpt/SmolderSideFront.jpg'),
   withBase('/SmolderSculpt/SmolderBack.jpg'),
-  withBase('/SmolderSculpt/Process00.PNG'),
+  withBase('/SmolderSculpt/Process00.png'),
   withBase('/SmolderSculpt/Process01.png'),
   withBase('/SmolderSculpt/Process02.png'), 
 ]
