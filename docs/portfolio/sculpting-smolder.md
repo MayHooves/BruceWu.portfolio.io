@@ -3,15 +3,17 @@
 
 <script setup>
 import { ref } from 'vue'
+// 1. 引入 VitePress 提供的路径转换工具
+import { withBase } from 'vitepress'
 
 // 图片路径
 const images = [
-  '/SmolderSculpt/SmolderFront.jpg',
-  '/SmolderSculpt/SmolderSideFront.jpg',
-  '/SmolderSculpt/SmolderBack.jpg',
-  '/SmolderSculpt/Process00.png',
-  '/SmolderSculpt/Process01.png',
-  '/SmolderSculpt/Process02.png', 
+  withBase('/SmolderSculpt/SmolderFront.jpg'),
+  withBase('/SmolderSculpt/SmolderSideFront.jpg'),
+  withBase('/SmolderSculpt/SmolderBack.jpg'),
+  withBase('/SmolderSculpt/Process00.png'),
+  withBase('/SmolderSculpt/Process01.png'),
+  withBase('/SmolderSculpt/Process02.png'), 
 ]
 
 // 2. 记住当前选中的是第几张图，默认是 0（第一张）
