@@ -3,6 +3,9 @@
 # Pool Core Game
 </center>
 
+
+
+
 <center>
 
 ## Screen Shots From The Game
@@ -10,14 +13,16 @@
 
 <script setup>
 import { ref } from 'vue'
+// 1. 引入 VitePress 提供的路径转换工具
+import { withBase } from 'vitepress'
 
 // 图片路径
 const images = [
-  '/Realtime/PoolCore/duck.png',
-  '/Realtime/PoolCore/hall.png',
-  '/Realtime/PoolCore/pool.png',
-  '/Realtime/PoolCore/space.png',
-  '/Realtime/PoolCore/basement.png',
+  withBase('/Realtime/PoolCore/duck.png'),
+  withBase('/Realtime/PoolCore/hall.png'),
+  withBase('/Realtime/PoolCore/pool.png'),
+  withBase('/Realtime/PoolCore/space.png'),
+  withBase('/Realtime/PoolCore/basement.png'),
 ]
 
 // 2. 记住当前选中的是第几张图，默认是 0（第一张）
