@@ -1,6 +1,6 @@
 # About Me
 
-## 1.Short Bio
+## Short Bio
 An **NCCA student** at **Bournemouth University**
 
 I am currently on a continuous journey of exploring my creative passions.

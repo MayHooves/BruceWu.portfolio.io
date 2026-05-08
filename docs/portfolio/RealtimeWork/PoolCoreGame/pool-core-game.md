@@ -1,17 +1,23 @@
-# 
----
+<center>
+
+# Pool Core Game
+</center>
+
+<center>
+
+## Screen Shots From The Game
+</center>
 
 <script setup>
 import { ref } from 'vue'
 
 // 图片路径
 const images = [
-  '/SmolderSculpt/SmolderFront.jpg',
-  '/SmolderSculpt/SmolderSideFront.jpg',
-  '/SmolderSculpt/SmolderBack.jpg',
-  '/SmolderSculpt/Process00.png',
-  '/SmolderSculpt/Process01.png',
-  '/SmolderSculpt/Process02.png', 
+  '/Realtime/PoolCore/duck.png',
+  '/Realtime/PoolCore/hall.png',
+  '/Realtime/PoolCore/pool.png',
+  '/Realtime/PoolCore/space.png',
+  '/Realtime/PoolCore/basement.png',
 ]
 
 // 2. 记住当前选中的是第几张图，默认是 0（第一张）
@@ -48,7 +54,7 @@ const currentIndex = ref(0)
 /* 大图样式 */
 .main-image img {
   width: 100%;
-  aspect-ratio: 1/1; /* 锁定大图比例，防止切换不同尺寸图片时页面跳动 */
+  aspect-ratio: 1.5/1; /* 锁定大图比例，防止切换不同尺寸图片时页面跳动 */
   object-fit: cover;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
@@ -84,16 +90,21 @@ const currentIndex = ref(0)
 }
 </style>
 
+<center>
 
-
+## Record of the game
+</center>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Km9pcuRuZ_0?si=W9KItoBDdaXHgBoz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 
 
 ## What I've learned
 
-This digital sculpture of **Smolder** (a character from League of Legends) was created with **Nomad** Sculpt on iPad, a mobile alternative to **ZBrush**. The project was an intensive study of volumes and silhouettes.
+This game demo was developed during my exploration of **Unreal Engine 5**, with a core focus on high-level visual polishing. I developed custom **post-processing filters and materials** to create a hazy, surreal aesthetic, intentionally simulating the artifacts and imperfections of **vintage VHS footage**.
 
-My primary goal was to master the “big-to-small” workflow, a sculpting technique that involves first blocking out the major shapes and volumes to establish the overall structure and proportion, before progressively refining smaller details. This approach ensures the character’s weight and primary forms are accurate before moving into the refinement and high-fidelity detailing stages. This exercise significantly deepened my understanding of how to establish a strong structural foundation in a stylized character.
+Beyond the visual layer, the environment design centers on counterintuitive **spatial arrangements**. By placing objects in unsettling, illogical ways, I aimed to evoke the inexplicable dread associated with **"Weirdcore."** This project demonstrates my ability to use technical shaders and meticulous level design to craft a specific, immersive psychological atmosphere.
 
 
 <br>
