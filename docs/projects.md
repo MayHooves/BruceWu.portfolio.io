@@ -34,7 +34,7 @@ Text in green can be clicked for navigation.
   <div style="text-align: center;">
     <a href=" ./portfolio/pony-mc.html">
     <img src="/CommingSoon.png" style="width: 100%; object-fit: cover; border-radius: 8px;" />
-    <p style="margin-top: 8px; font-weight: bold;">Comming Soon</p>
+    <p style="margin-top: 8px; font-weight: bold;">Coming Soon</p>
     </a>
   </div>
 
@@ -42,14 +42,14 @@ Text in green can be clicked for navigation.
   <div style="text-align: center;">
     <a href=" ./portfolio/pony-mc.html">
     <img src="/CommingSoon.png" style="width: 100%; object-fit: cover; border-radius: 8px;" />
-    <p style="margin-top: 8px; font-weight: bold;">Comming Soon</p>
+    <p style="margin-top: 8px; font-weight: bold;">Coming Soon</p>
     </a>
   </div>
 
   <div style="text-align: center;">
     <a href=" ./portfolio/turn.html">
     <img src="/CommingSoon.png" style="width: 100%; object-fit: cover; border-radius: 8px;" />
-    <p style="margin-top: 8px; font-weight: bold;">Comming Soon</p>
+    <p style="margin-top: 8px; font-weight: bold;">Coming Soon</p>
     </a>
   </div>
 </div>
@@ -69,14 +69,14 @@ Text in green can be clicked for navigation.
   <div style="text-align: center;">
     <a href=" ./portfolio/pony-mc.html">
     <img src="/CommingSoon.png" style="width: 100%; object-fit: cover; border-radius: 8px;" />
-    <p style="margin-top: 8px; font-weight: bold;">Comming Soon</p>
+    <p style="margin-top: 8px; font-weight: bold;">Coming Soon</p>
     </a>
   </div>
 
   <div style="text-align: center;">
     <a href=" ./portfolio/turn.html">
     <img src="/CommingSoon.png" style="width: 100%; object-fit: cover; border-radius: 8px;" />
-    <p style="margin-top: 8px; font-weight: bold;">Comming Soon</p>
+    <p style="margin-top: 8px; font-weight: bold;">Coming Soon</p>
     </a>
   </div>
 </div>
@@ -96,14 +96,14 @@ Text in green can be clicked for navigation.
   <div style="text-align: center;">
     <a href=" ./portfolio/pony-mc.html">
     <img src="/CommingSoon.png" style="width: 100%; object-fit: cover; border-radius: 8px;" />
-    <p style="margin-top: 8px; font-weight: bold;">Comming Soon</p>
+    <p style="margin-top: 8px; font-weight: bold;">Coming Soon</p>
     </a>
   </div>
 
   <div style="text-align: center;">
     <a href=" ./portfolio/turn.html">
     <img src="/CommingSoon.png" style="width: 100%; object-fit: cover; border-radius: 8px;" />
-    <p style="margin-top: 8px; font-weight: bold;">Comming Soon</p>
+    <p style="margin-top: 8px; font-weight: bold;">Coming Soon</p>
     </a>
   </div>
 </div>

@@ -7,7 +7,8 @@
 ## EDUCATION
 **BA (Hons) Computer Animation and Visual Effects**
 
-Bournemouth University
+Bournemouth University, NCCA 
+Expected Graduation: 2027
 
 ## TECHNICAL SKILLS
 **Softwares:**
@@ -20,8 +21,15 @@ Bournemouth University
 - Premiere Pro
 
 **Skills**
-- 3D Character Animation
-- Character Sculpting
-- 3D Modeling
-- compositing
-- Video Editing
+- 3D Character Animation (focus area)
+- Character Sculpting & Modeling
+- Rigging
+- Compositing & Video Editing
+
+## LANGUAGES
+- English (Fluent/Second Language)
+- Mandarin Chinese (Native)
+
+## PORTFOLIO
+- Demo Reel:
+- Portfolio Website: https://mayhooves.github.io/BruceWu.portfolio.io/
