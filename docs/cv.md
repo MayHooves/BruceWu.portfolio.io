@@ -31,5 +31,5 @@ Expected Graduation: 2027
 - Mandarin Chinese (Native)
 
 ## PORTFOLIO
-- Demo Reel:
+- Animation Showreel: https://youtu.be/txjAzOJPoE4
 - Portfolio Website: https://mayhooves.github.io/BruceWu.portfolio.io/
