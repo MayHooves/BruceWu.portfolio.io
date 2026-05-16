@@ -11,6 +11,13 @@ Bournemouth University, NCCA
 Expected Graduation: 2027
 
 ## TECHNICAL SKILLS
+
+**Skills**
+- 3D Character Animation (focus area)
+- Character Sculpting & Modeling
+- Rigging
+- Compositing & Video Editing
+
 **Softwares:**
 - Maya, 
 - Blender
@@ -19,12 +26,6 @@ Expected Graduation: 2027
 - Unreal Engine
 - Nuke
 - Premiere Pro
-
-**Skills**
-- 3D Character Animation (focus area)
-- Character Sculpting & Modeling
-- Rigging
-- Compositing & Video Editing
 
 ## LANGUAGES
 - English (Fluent/Second Language)
