@@ -1,5 +1,6 @@
 # About Me
 
+
 ## Short Bio
 An **NCCA student** at **Bournemouth University**
 
@@ -9,7 +10,9 @@ While I thoroughly enjoy the entire 3D pipeline, from **character design** and *
 
 ## My CV
 [Click here to find my CV](/cv.md)
+ 
 
 ## My Personal Statement
 
 [Click here to find my PS](/ps.md)
+

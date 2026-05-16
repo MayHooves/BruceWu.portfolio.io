@@ -34,3 +34,16 @@ Expected Graduation: 2027
 ## PORTFOLIO
 - Animation Showreel: https://youtu.be/txjAzOJPoE4
 - Portfolio Website: https://mayhooves.github.io/BruceWu.portfolio.io/
+
+---
+<br>
+<br>
+
+<center>
+
+# Animation Showreel
+</center>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/txjAzOJPoE4?si=iUUC8ZZg0cgubqsf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
