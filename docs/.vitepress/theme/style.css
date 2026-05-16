@@ -1,0 +1,7 @@
+.VPHero .VPImage,
+.VPHero .image-src,
+.VPHero .image-bg {
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  overflow: hidden !important;
+}
