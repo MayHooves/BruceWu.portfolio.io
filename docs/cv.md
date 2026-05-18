@@ -31,6 +31,9 @@ Expected Graduation: 2027
 - English (Fluent/Second Language)
 - Mandarin Chinese (Native)
 
+## PERSONAL STATEMENT
+[Click here to find my PS](/ps.md)
+
 ## PORTFOLIO
 - Animation Showreel: https://youtu.be/txjAzOJPoE4
 - Portfolio Website: https://mayhooves.github.io/BruceWu.portfolio.io/
@@ -46,4 +49,13 @@ Expected Graduation: 2027
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/txjAzOJPoE4?si=iUUC8ZZg0cgubqsf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<br>
+
+---
+<center>
+
+[Click here going back](/about/index.md)
+
 </center>

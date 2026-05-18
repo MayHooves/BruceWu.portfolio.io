@@ -22,3 +22,12 @@ In terms of personal style, I am far more drawn to stylized animation filled wit
 
 
 Looking toward the future, I aspire to become a character animator. Although I have experimented with almost every role within the animation pipeline, nothing feels more fulfilling to me than giving a character a soul. After completing my undergraduate studies, I plan to challenge myself by pursuing opportunities at top-tier studios, starting from the most fundamental animation roles, learning humbly from experienced artists, and continuously refining my craft. I firmly believe that the pursuit of technical excellence has no endpoint, but I am ready — ready to use the mouse and keyboard in my hands to breathe life into countless characters and **create a world of my own.**
+
+<br>
+
+---
+<center>
+
+[Click here going back](/about/index.md)
+
+</center>

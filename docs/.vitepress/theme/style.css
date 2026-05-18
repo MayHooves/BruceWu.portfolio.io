@@ -11,10 +11,10 @@
 
   /* 调整按钮颜色，但目前有bug调不好 */
   --vp-c-brand-1: #fa7b20; /* 默认状态：主色调（标准橙色），用于按钮和链接 */
-  --vp-c-brand-2: #ff974d; /* 悬停状态：鼠标放上去变深一点（深橙色） */
+  --vp-c-brand-2: #ff974d; /* 悬停状态：鼠标放上去变亮一点 */
   --vp-c-brand-3: #fa7b20; /* 按下状态：点击时变得更深（暗橙色） */
   
-  /* 这里定义光晕的颜色，目前是橙 */
+  /* 这里定义光晕的颜色，目前是黄 */
   --vp-home-hero-image-background-image: linear-gradient(135deg, #fdc59e 10%, #fef0bc 100%);
   /* 这里定义光晕的模糊程度，数值越大散得越开 */
   --vp-home-hero-image-filter: blur(27px);
