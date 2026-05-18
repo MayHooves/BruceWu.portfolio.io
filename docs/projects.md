@@ -1,5 +1,5 @@
 # Portfolio
-Text in orange can be clicked for navigation.
+Text in **orange** can be clicked for navigation.
 
 ## Character Animation:
 <br>
